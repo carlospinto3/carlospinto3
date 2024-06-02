@@ -1,6 +1,6 @@
 
 
-### Ciao! sono Carlos Pinto 🖐🏿
+### Ciao! sono Carlos 🖐🏿
 ![carlospinto3  GitHub stats](https://github-readme-stats.vercel.app/api?username=carlospinto3&show_icons=true&theme=dracula)
 
 ## La tecnologia che utilizzo ogni giorno.
